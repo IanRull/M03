@@ -1,0 +1,39 @@
+#Python 3.6#
+#Mal hecho
+sexe = str(input("Indique su sexo aqui,con H o D") 
+edad = str(input("Indique su edad aqui")
+pelo = str(input("Indique si su color de pelo es rubio,con un si o un no en minusculas")
+if ((sexe =="H")and(edad >=65)): 
+    print("No pagas")
+else:
+    if ((sexe == "H")and(edad <65)):
+        print("Pagas 1 EURO")
+    else:
+        if ((sexe =="D")and(pelo =="si")):
+            print("No pagas")
+        else:
+            print("Pagas 0,5€")
+
+
+
+
+
+
+
+
+
+
+
+## Python 3.6 ##
+**Practica 2: Jubilats, sexe i rosses**
+
+jubilat = str (input("Ets jubilat? Si o no"))
+sexe = str(input("Ets home o dona? H o D"))
+cabell = str(input("De que color son els teus cabells?"))
+if(jubilat =="Si")or((sexe == "rossa")and(jubilat=="No")):
+    print("Gratis")
+else:
+    if(sexe==H):
+        print("Pagar 1€")
+    else:
+        print("Pagar 0.5€")
