@@ -1,11 +1,11 @@
-#V1.1
-#coding:utf-8
+#V1.1##
+#coding:utf-8##
 numero = int(input("Ponga un numero:"))
 if(numero >= 0):
     print("Es positivo")
 else:
     print("Es negativo")
-#V1.2
+#V1.2##
 ###########################################################################################
 #                                     JOC DE PROVES                                       #                                                #
 #              ENTRADA                                                SORTIDA             #                                                                  #
@@ -16,7 +16,7 @@ else:
 #                                                                                         #
 ###########################################################################################
 
-#coding:utf-8
+#coding:utf-8##
 numero = int(input("Ponga un numero:"))
 if(numero ==0):
     print("Es positivo")
@@ -26,7 +26,7 @@ else:
     print("Es positivo")
          
         
-#V1.3
+#V1.3##
 ###########################################################################################
 #                                     JOC DE PROVES                                       #                                                #
 #              ENTRADA                                                SORTIDA             #                                                                  #
@@ -36,7 +36,7 @@ else:
 #                 0   0   0                                            0      0         #
 #                                                                                         #
 ###########################################################################################
-#coding:utf-8
+#coding:utf-8##
 numeros=list(eval(input("Posa tres numeros separats per comes: ")))
 numeros.sort()
 print(numeros)
