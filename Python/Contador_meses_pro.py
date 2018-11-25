@@ -45,7 +45,7 @@ if(x > 273)and(x <= 304):
 for x in range(304 ,334):
     print(x + 1)
 if(x > 304)and(x <= 334):
-    print('NOBIEMBRE')
+    print('NOVIEMBRE')
 for x in range(334 ,365):
     print(x + 1)
 if(x > 334)and(x <= 365):
